@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>kinder_12.jpg</filename>
+	<path>/Users/alexeykadach/PycharmProjects/vision/kinder/data/kinder_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kinder</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2263</xmin>
+			<ymin>2740</ymin>
+			<xmax>3000</xmax>
+			<ymax>3993</ymax>
+		</bndbox>
+	</object>
+</annotation>
