@@ -1,7 +1,7 @@
 <annotation>
-	<folder>data</folder>
+	<folder>train_data</folder>
 	<filename>kinder_1.jpg</filename>
-	<path>/Users/alexeykadach/PycharmProjects/vision/kinder/data/kinder_1.jpg</path>
+	<path>/Users/alexeykadach/PycharmProjects/vision/kinder/train_data/kinder_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>1044</xmin>
 			<ymin>1035</ymin>
-			<xmax>2416</xmax>
+			<xmx>2416</xmax>
 			<ymax>2283</ymax>
 		</bndbox>
 	</object>
