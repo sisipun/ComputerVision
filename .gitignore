@@ -1,5 +1,3 @@
 .DS_Store
 .venv/*
 */.DS_Store
-logo/detection/model
-logo/detection/model*
